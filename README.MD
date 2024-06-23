@@ -19,27 +19,27 @@ chocolet chips<br>
 Enter Product Prices<br>
 75<br>
 Enter product name (or 'quit' to exit):<br>
-butter
-Enter Product Prices
-10
-Enter product name (or 'quit' to exit):
-eggs
-Enter Product Prices
-15
-Enter product name (or 'quit' to exit):
-quit
-precio total 110
-Enter number of units that can be made: 
-35
-Enter profit margin: 
-2
+butter<br>
+Enter Product Prices<br>
+10<br>
+Enter product name (or 'quit' to exit):<br>
+eggs<br>
+Enter Product Prices<br>
+15<br>
+Enter product name (or 'quit' to exit):<br>
+quit<br>
+precio total 110<br>
+Enter number of units that can be made: <br>
+35<br>
+Enter profit margin: <br>
+2<br>
 
 
-Product => cookies
+Product => cookies<br>
 
-With => 2 as profit margin, each prucduct should cost => $6.285714285714286.
-price per unit => $3.142857142857143 
-total expences => $110
+With => 2 as profit margin, each prucduct should cost => $6.285714285714286.<br>
+price per unit => $3.142857142857143 <br>
+total expences => $110<br>
 
 #### Task Pending
 
