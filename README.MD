@@ -6,19 +6,19 @@ then ask for a profit margin, this is times X how much you want to earn for each
 and ask you for how many units you can make with this materials and costs.
 
 ### Example with cookies:
-Calculadora de Precio de Productos"\n"
-Nombre del producto:"\n"
-cookies"\n"
--------------Add products and Prices------------"\n"
-Enter product name (or 'quit' to exit):"\n"
-flour"\n"
-Enter Product Prices"\n"
-10"\n"
-Enter product name (or 'quit' to exit):"\n"
-chocolet chips"\n"
-Enter Product Prices"\n"
-75"\n"
-Enter product name (or 'quit' to exit):"\n"
+Calculadora de Precio de Productos<br>
+Nombre del producto:<br>
+cookies<br>
+-------------Add products and Prices------------<br>
+Enter product name (or 'quit' to exit):<br>
+flour<br>
+Enter Product Prices<br>
+10<br>
+Enter product name (or 'quit' to exit):<br>
+chocolet chips<br>
+Enter Product Prices<br>
+75<br>
+Enter product name (or 'quit' to exit):<br>
 butter
 Enter Product Prices
 10
